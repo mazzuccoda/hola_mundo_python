@@ -10,3 +10,7 @@
 
 print("Hola Mundo!")
 print("Hola Inove")
+
+import pandas as pd
+a = 3**9
+print (a)
